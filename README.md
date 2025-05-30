@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Kandregula Prem kumar</h1>
 <h3 align="center">👋 Hello World! I'm Prem kumar, a passionate Computer Science Engineering graduate eager to dive into the world of Artificial intelligence and Software development..</h3>
