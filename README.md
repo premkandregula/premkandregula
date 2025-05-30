@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kandregula Prem kumar</h1>
 
+<h3 align="center">A Passionate Data Analyst,Data Scientist and AI Enthusiast </h3>
 
 - 👨‍💻 All of my projects are available at [https://premkandregula.github.io/github-portfolio/](https://premkandregula.github.io/github-portfolio/)
 
