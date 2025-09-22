@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kandregulapremkumar@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/18tgPBVvFR8FXa_TMH4kk9gGakTU1XcIP/view?usp=sharing](https://drive.google.com/file/d/18tgPBVvFR8FXa_TMH4kk9gGakTU1XcIP/view?usp=sharing]
+- 📄 Know about my experiences https://drive.google.com/file/d/1ECCL5BIRDQousUtW8RQluXcBjJnnvT2A/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
